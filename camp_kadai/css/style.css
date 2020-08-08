@@ -1,0 +1,42 @@
+
+.practice-1 {
+  width: 945px;
+  height: 370px;
+  /* background-image: url(../img/01.jpg); 
+  background-repeat: no-repeat;
+  background-position: center center; */
+
+  /* bgi系は短く書ける */
+  background: url(../img/01.jpg) no-repeat center center;
+  background-size: cover;
+  margin: 0 auto;
+}
+p{
+  color: #fff;
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+  padding-top: 165px;
+}
+
+.practice-2{
+  width: 945px;
+  height: 370px;
+  background: url(../img/02.jpg) no-repeat center center;
+  background-size: cover;
+  margin: 0 auto;
+}
+.practice-2-title{
+  color: #fff;
+  font-size: 50px;
+  font-weight: bold;
+  text-align: center;
+  padding-top: 130px;
+}
+.practice-2-text{
+  color: #fff;
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+  padding-top: 56px;
+}
